@@ -1,5 +1,5 @@
 #---------------------------- razno
-title = "FCG V0.1"
+title = "FCG V0.2"
 pathJson = "charJbase.json"
 n = 1
 #---------------------------- user input values
