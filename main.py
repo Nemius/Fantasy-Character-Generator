@@ -25,6 +25,7 @@ while n == 1:
         race = CharacterGenerator(chargenT,charRace).charRaceF()
         klass = CharacterGenerator(chargenT, charClass).charClassF()
         charInfo(name, gender, race, klass, title)
+        saveCharacter(name, gender, race, klass, pathJson)
     elif start == choseList:
         pass
     elif start == choseDelete:
